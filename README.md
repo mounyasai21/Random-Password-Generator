@@ -3,9 +3,9 @@
 
 This **Random Password Generator** is a Python-based application designed to generate secure, random passwords based on user-defined criteria. It offers both a **command-line** version (basic) and an enhanced **Graphical User Interface (GUI)** version built with Tkinter.
 
-## 🚀 Features
+##  Features
 
-### ✅ Basic Functionality (Command-Line Logic Behind the GUI)
+###  Basic Functionality (Command-Line Logic Behind the GUI)
 
 * Generate random passwords of customizable length.
 * Choose to include:
@@ -32,16 +32,16 @@ This **Random Password Generator** is a Python-based application designed to gen
 
  Concept                    Description                                                         
  -------------------------  ------------------------------------------------------------------- 
- 🔄 Randomization         -  Randomly generates secure passwords using Python's `random` module. 
- ✅ Input Validation      -  Ensures password length and character selections are valid.        
- 🔡 Character Set Handling - Dynamically builds the character pool based on user preferences.    
- 🖼 GUI Design             - Clean, intuitive interface using **Tkinter** widgets.               
- 🔐 Security Rules         - Password strength scoring based on composition and length.          
- 📋 Clipboard Integration  - Seamlessly copies password using the `pyperclip` module.            
- ⚙️ Customization           -Advanced settings for excluding confusing or unwanted characters.   
+  Randomization         -  Randomly generates secure passwords using Python's `random` module. 
+  Input Validation      -  Ensures password length and character selections are valid.        
+  Character Set Handling - Dynamically builds the character pool based on user preferences.    
+  GUI Design             - Clean, intuitive interface using **Tkinter** widgets.               
+  Security Rules         - Password strength scoring based on composition and length.          
+  Clipboard Integration  - Seamlessly copies password using the `pyperclip` module.            
+  Customization           -Advanced settings for excluding confusing or unwanted characters.   
 
 
-## 🛠 Requirements
+##  Requirements
 
 * Python 3.x
 * Tkinter (comes pre-installed with Python)
@@ -54,7 +54,7 @@ This **Random Password Generator** is a Python-based application designed to gen
 
 
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add support for password categories (e.g., banking, social).
 * Add option to show/hide password while typing.
